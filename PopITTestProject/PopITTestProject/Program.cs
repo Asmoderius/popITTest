@@ -24,7 +24,6 @@ namespace PopITTestProject
             char alive = '\u2588'; 
             while (true)
             {
-                Console.ReadLine();
                 e.Update();
 
                 for (int i = 0; i < e.GetBufferHeight(); i++)
