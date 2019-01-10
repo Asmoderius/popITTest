@@ -1,0 +1,12 @@
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\bin\Debug\PopITTestProject.exe.config
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\bin\Debug\PopITTestProject.exe
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\bin\Debug\PopITTestProject.pdb
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\bin\Debug\Engine.dll
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\bin\Debug\Engine.pdb
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\obj\Debug\PopITTestProject.csprojAssemblyReference.cache
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\obj\Debug\PopITTestProject.csproj.CoreCompileInputs.cache
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\obj\Debug\PopITTestProject.csproj.CopyComplete
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\obj\Debug\PopITTestProject.exe
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\obj\Debug\PopITTestProject.pdb
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\bin\Debug\nunit.framework.dll
+C:\Users\lf\Desktop\PopITTestProject\PopITTestProject\bin\Debug\nunit.framework.xml

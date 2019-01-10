@@ -1,0 +1,6 @@
+C:\Users\lf\Desktop\PopITTestProject\Engine\bin\Debug\Engine.dll
+C:\Users\lf\Desktop\PopITTestProject\Engine\bin\Debug\Engine.pdb
+C:\Users\lf\Desktop\PopITTestProject\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\lf\Desktop\PopITTestProject\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\lf\Desktop\PopITTestProject\Engine\obj\Debug\Engine.dll
+C:\Users\lf\Desktop\PopITTestProject\Engine\obj\Debug\Engine.pdb
